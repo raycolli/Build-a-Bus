@@ -1,4 +1,4 @@
-# Bus Project
+# Build a Bus
 
 • Frameworks used: OpenGL.framework, GLUT.framework
 
