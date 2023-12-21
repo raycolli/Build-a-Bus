@@ -1,5 +1,7 @@
 # Bus Project
 
+• Frameworks used: OpenGL.framework, GLUT.framework
+
 • Draws the bus
 
 • Let's the user change the camera angle
