@@ -131,6 +131,7 @@ static void printHelp() {
         "Left Mousebutton    - move eye position\n"
         "Middle Mousebutton    - change twist angle\n"
         "Right Mousebutton    - move up / down to zoom in / out\n"
+        "Space Key           - change the color of the background\n"
         "<f> Key        - front of the bus\n"
         "<b> Key        - back of the bus\n"
         "<r> Key        - reset viewpoint\n"
